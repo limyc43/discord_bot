@@ -1,4 +1,4 @@
 .env
 venv/
 __pycache__/
-bot.pyc
+bot.pyc.DS_Store
